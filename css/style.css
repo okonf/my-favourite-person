@@ -1,0 +1,30 @@
+body{
+    background-color: #ffffff;
+    color: #000000;
+    front-family: Arial;
+    front-weight: normal;
+    front-size: 13px;
+    line-height: 1.1875;
+    margin:0;
+    padding:o;
+    }
+    
+    a{
+        color: #0000ff;
+        text-decoration: underline;
+    }
+    
+    a:visited{
+        color: #800080;
+    }
+    
+    a:active{
+        color: #ff0000;
+    }
+    
+    a:hover{
+        color: #0000ff;
+        text-decoration: underline;
+    }
+    input:focus,textarea:focus, select:focus{
+        outline: none;
